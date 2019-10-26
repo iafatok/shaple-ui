@@ -2,9 +2,19 @@
 .shaple-menu {
   float: right;
   font-size: 13px;
-    text-transform: uppercase;
-    font-weight: 500;
-    letter-spacing: -1px;
-    color: #4c4c4c;
-}
+  font-weight: 500;
+  letter-spacing: 2px;
+  color: #4c4c4c;
+     }
 
+/* Page Title */
+.shaple-title
+    font-size: 24px;
+    line-height: 52px;
+    color: #666;
+    font-weight: 300;
+    box-sizing: inherit;
+
+<label class="search" for="inpt_search">
+            <input id="inpt_search" type="text" />
+        </label>
