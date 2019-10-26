@@ -8,13 +8,10 @@
      }
 
 /* Page Title */
-.shaple-title
+.shaple-title {
     font-size: 24px;
     line-height: 52px;
     color: #666;
     font-weight: 300;
     box-sizing: inherit;
-
-<label class="search" for="inpt_search">
-            <input id="inpt_search" type="text" />
-        </label>
+}
