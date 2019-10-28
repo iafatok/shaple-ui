@@ -3,9 +3,15 @@
   float: right;
   font-size: 13px;
   font-weight: 500;
+  box-sizing: inherit;
   letter-spacing: 2px;
   color: #4c4c4c;
-     }
+       }
+ /* Dropdown menu test style sheet - My brain is on fire on this */
+ .shaple-menu-dropdown {
+ 	display: none;
+
+ }
 
 /* Page Title */
 .shaple-title {
